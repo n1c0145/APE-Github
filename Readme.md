@@ -2,5 +2,4 @@
 
 **Nombre**: Eduardo Loza
 
-## <span style="color:black">Subtítulo</span>
-Este es un subtítulo en color negro.
+
